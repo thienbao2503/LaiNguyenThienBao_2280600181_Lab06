@@ -1,0 +1,212 @@
+INFO:root:System: Monitoring system...
+INFO:root:CPU Usage: 58.3%
+INFO:root:Memory: Total: 39.6
+INFO:root:System info: hostname 10PC327 
+INFO:root:System info: operating Windows 10 
+INFO:root:System info: python version :  3.12.8 
+INFO:root:Network: Bytes sent: 303990074 ,Bytes Received: 1257555493
+INFO:root:Software: Running processes:
+INFO:root:Software: Name: System Idle Process, PID: 0, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: System, PID: 4, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: RevitAccelerator.exe, PID: 76, Username: 10PC327\Administrator
+INFO:root:Software: Name: Registry, PID: 124, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: chrome.exe, PID: 336, Username: 10PC327\Administrator
+INFO:root:Software: Name: fontdrvhost.exe, PID: 400, Username: Font Driver Host\UMFD-1
+INFO:root:Software: Name: StudentUI.exe, PID: 404, Username: 10PC327\Administrator
+INFO:root:Software: Name: smss.exe, PID: 444, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: fontdrvhost.exe, PID: 464, Username: Font Driver Host\UMFD-0
+INFO:root:Software: Name: csrss.exe, PID: 620, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: wininit.exe, PID: 708, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: csrss.exe, PID: 716, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: WUDFHost.exe, PID: 720, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: services.exe, PID: 780, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: lsass.exe, PID: 788, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: Code.exe, PID: 804, Username: 10PC327\Administrator
+INFO:root:Software: Name: winlogon.exe, PID: 880, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 888, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 996, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 1040, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: chrome.exe, PID: 1092, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 1108, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: dwm.exe, PID: 1196, Username: Window Manager\DWM-1
+INFO:root:Software: Name: Code.exe, PID: 1208, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 1264, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: ApplicationFrameHost.exe, PID: 1292, Username: 10PC327\Administrator
+INFO:root:Software: Name: UserOOBEBroker.exe, PID: 1332, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 1340, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 1436, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 1452, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 1464, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 1472, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 1484, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 1628, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 1684, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 1812, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 1876, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 1940, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 1960, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 2004, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: NVDisplay.Container.exe, PID: 2068, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2136, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2192, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2200, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2212, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 2324, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2348, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 2396, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: MemCompression, PID: 2420, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2456, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2464, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 2504, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 2516, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: ReportingServicesService.exe, PID: 2620, Username: NT SERVICE\ReportServer$SQLEXPRESS
+INFO:root:Software: Name: svchost.exe, PID: 2632, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: acwebbrowser.exe, PID: 2776, Username: 10PC327\Administrator
+INFO:root:Software: Name: NVDisplay.Container.exe, PID: 2844, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 2900, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 3064, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 3108, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: Code.exe, PID: 3172, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 3184, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 3308, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: WmiPrvSE.exe, PID: 3496, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 3516, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 3608, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 3736, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 3740, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: RuntimeBroker.exe, PID: 3768, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 3788, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: spoolsv.exe, PID: 3920, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 3976, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 4180, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: RtkNGUI64.exe, PID: 4220, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 4224, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4284, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 4292, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4308, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: client32.exe, PID: 4320, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4328, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: EwServer.exe, PID: 4336, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: AdskLicensingService.exe, PID: 4344, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: mDNSResponder.exe, PID: 4352, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: hasplms.exe, PID: 4364, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4380, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: SWVisualize.Queue.Server.exe, PID: 4404, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: SWVisualize.BoostService.exe, PID: 4412, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: FNPLicensingService64.exe, PID: 4432, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: OneApp.IGCC.WinService.exe, PID: 4440, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: vmware-authd.exe, PID: 4448, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: AdobeUpdateService.exe, PID: 4460, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4476, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: vmnat.exe, PID: 4488, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: RtkAudUService64.exe, PID: 4504, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: ctfmon.exe, PID: 4536, Username: 10PC327\Administrator
+INFO:root:Software: Name: register-service.exe, PID: 4564, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4572, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: sqlwriter.exe, PID: 4580, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: vmware-usbarbitrator64.exe, PID: 4612, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: vmnetdhcp.exe, PID: 4620, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: FNPLicensingService.exe, PID: 4632, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: WMIRegistrationService.exe, PID: 4660, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4764, Username: NT AUTHORITY\NETWORK SERVICE
+INFO:root:Software: Name: LMS.exe, PID: 4888, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 4996, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: RtkAudUService64.exe, PID: 5012, Username: 10PC327\Administrator
+INFO:root:Software: Name: conhost.exe, PID: 5048, Username: 10PC327\Administrator
+INFO:root:Software: Name: python.exe, PID: 5104, Username: 10PC327\Administrator
+INFO:root:Software: Name: SystemSettings.exe, PID: 5252, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 5536, Username: 10PC327\Administrator
+INFO:root:Software: Name: jhi_service.exe, PID: 5612, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 5620, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 5792, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 5848, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 5896, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: sqlservr.exe, PID: 5924, Username: NT SERVICE\MSSQL$SQLEXPRESS
+INFO:root:Software: Name: powershell.exe, PID: 6004, Username: 10PC327\Administrator
+INFO:root:Software: Name: Microsoft.Photos.exe, PID: 6264, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 6420, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: chrome.exe, PID: 6424, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 6464, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 6816, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: swrm.exe, PID: 6876, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: conhost.exe, PID: 6896, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: chrome.exe, PID: 6936, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 7016, Username: 10PC327\Administrator
+INFO:root:Software: Name: dllhost.exe, PID: 7416, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: SearchApp.exe, PID: 7524, Username: 10PC327\Administrator
+INFO:root:Software: Name: hasplmv.exe, PID: 7536, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: DefenderDaemon.exe, PID: 7576, Username: 10PC327\Administrator
+INFO:root:Software: Name: client32.exe, PID: 7604, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: sihost.exe, PID: 7776, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 7964, Username: 10PC327\Administrator
+INFO:root:Software: Name: hasplmv.exe, PID: 7996, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: PciHooksApp64.exe, PID: 8016, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: ShellExperienceHost.exe, PID: 8036, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 8124, Username: 10PC327\Administrator
+INFO:root:Software: Name: taskhostw.exe, PID: 8148, Username: 10PC327\Administrator
+INFO:root:Software: Name: taskhostw.exe, PID: 8184, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 8204, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 8260, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 8552, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: svchost.exe, PID: 8608, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: AutodeskDesktopApp.exe, PID: 8648, Username: 10PC327\Administrator
+INFO:root:Software: Name: explorer.exe, PID: 8680, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 8692, Username: 10PC327\Administrator
+INFO:root:Software: Name: SecurityHealthService.exe, PID: 8872, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: RuntimeBroker.exe, PID: 8940, Username: 10PC327\Administrator
+INFO:root:Software: Name: vrol.exe, PID: 8948, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: SU10Guard.exe, PID: 8968, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: fdhost.exe, PID: 9080, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+INFO:root:Software: Name: RuntimeBroker.exe, PID: 9296, Username: 10PC327\Administrator
+INFO:root:Software: Name: chrome.exe, PID: 9332, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 9356, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: WINWORD.EXE, PID: 9372, Username: 10PC327\Administrator
+INFO:root:Software: Name: Runplugin64.exe, PID: 9540, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: SearchIndexer.exe, PID: 9552, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: StartMenuExperienceHost.exe, PID: 9736, Username: 10PC327\Administrator
+INFO:root:Software: Name: py.exe, PID: 9848, Username: 10PC327\Administrator
+INFO:root:Software: Name: RuntimeBroker.exe, PID: 10120, Username: 10PC327\Administrator
+INFO:root:Software: Name: dllhost.exe, PID: 10140, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: powershell.exe, PID: 10204, Username: 10PC327\Administrator
+INFO:root:Software: Name: dllhost.exe, PID: 10368, Username: 10PC327\Administrator
+INFO:root:Software: Name: SgrmBroker.exe, PID: 10508, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 10528, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: svchost.exe, PID: 10544, Username: 10PC327\Administrator
+INFO:root:Software: Name: chrome.exe, PID: 10560, Username: 10PC327\Administrator
+INFO:root:Software: Name: MsMpEng.exe, PID: 10588, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: Code.exe, PID: 10640, Username: 10PC327\Administrator
+INFO:root:Software: Name: conhost.exe, PID: 10768, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+INFO:root:Software: Name: EVKey.exe, PID: 10888, Username: 10PC327\Administrator
+INFO:root:Software: Name: runplugin.exe, PID: 11100, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: acmkmgr.exe, PID: 11136, Username: 10PC327\Administrator
+INFO:root:Software: Name: fdlauncher.exe, PID: 11164, Username: NT SERVICE\MSSQLFDLauncher$SQLEXPRESS
+INFO:root:Software: Name: wmedsrv.exe, PID: 11172, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 11184, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: acwebbrowser.exe, PID: 11340, Username: 10PC327\Administrator
+INFO:root:Software: Name: notepad.exe, PID: 11448, Username: 10PC327\Administrator
+INFO:root:Software: Name: UltraCpy.exe, PID: 11504, Username: 10PC327\Administrator
+INFO:root:Software: Name: TextInputHost.exe, PID: 11540, Username: 10PC327\Administrator
+INFO:root:Software: Name: chrome.exe, PID: 11596, Username: 10PC327\Administrator
+INFO:root:Software: Name: NisSrv.exe, PID: 11672, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: CCXProcess.exe, PID: 11716, Username: 10PC327\Administrator
+INFO:root:Software: Name: node.exe, PID: 11732, Username: 10PC327\Administrator
+INFO:root:Software: Name: UltraNst.exe, PID: 11792, Username: 10PC327\Administrator
+INFO:root:Software: Name: sldworks_fs.exe, PID: 11808, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 11816, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: Code.exe, PID: 11856, Username: 10PC327\Administrator
+INFO:root:Software: Name: conhost.exe, PID: 11964, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 12028, Username: 10PC327\Administrator
+INFO:root:Software: Name: acwebbrowser.exe, PID: 12120, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 12228, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: AdobeIPCBroker.exe, PID: 12260, Username: 10PC327\Administrator
+INFO:root:Software: Name: MpCopyAccelerator.exe, PID: 12388, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: MpDefenderCoreService.exe, PID: 12396, Username: NT AUTHORITY\SYSTEM
+INFO:root:Software: Name: conhost.exe, PID: 12464, Username: 10PC327\Administrator
+INFO:root:Software: Name: ScrollWall.exe, PID: 12544, Username: 10PC327\Administrator
+INFO:root:Software: Name: runplugin.exe, PID: 12552, Username: 10PC327\Administrator
+INFO:root:Software: Name: Runplugin64.exe, PID: 12644, Username: 10PC327\Administrator
+INFO:root:Software: Name: audiodg.exe, PID: 12812, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:Software: Name: Code.exe, PID: 12816, Username: 10PC327\Administrator
+INFO:root:Software: Name: Code.exe, PID: 12972, Username: 10PC327\Administrator
+INFO:root:Software: Name: svchost.exe, PID: 13040, Username: NT AUTHORITY\LOCAL SERVICE
+INFO:root:System: Monitoring complete
